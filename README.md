@@ -1,4 +1,4 @@
-# DogDeck
+DogDeck v1.1
 
 Create the greatest macro keyboard to taunt your Tekken 7 opponent on Discord channel.
 
